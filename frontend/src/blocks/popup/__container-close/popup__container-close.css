@@ -1,0 +1,26 @@
+.popup__container-close {
+  background: url(../../../images/button/close-icon.svg) no-repeat 50% transparent;
+  width: 32px;
+  height: 32px;
+  top: -40px;
+  right: -40px;
+  padding: 0;
+  cursor: pointer;
+  transition: opacity .4s ease-out;
+  border: none;
+  position: absolute;
+}
+
+@media all and (max-width: 768px) {
+  .popup__container-close {
+    width: 20px;
+    top: -36px;
+    height: 20px;
+    right: 0;
+    background-image: url(../../../images/button/close-iconMobile.svg);
+  }
+}
+
+.ppopup__container-close:hover {
+  opacity: 0.6;
+}

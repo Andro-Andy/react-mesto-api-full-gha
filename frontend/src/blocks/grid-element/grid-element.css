@@ -1,0 +1,18 @@
+.grid-element {
+  max-width: 882px;
+  padding: 50px 0 0;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+  .grid-element {
+    padding-right: 19px;
+    padding-left: 19px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .grid-element {
+    padding-top: 36px;
+  }
+}

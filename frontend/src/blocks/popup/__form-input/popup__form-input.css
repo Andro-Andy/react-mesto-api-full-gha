@@ -1,0 +1,12 @@
+.popup__form-input {
+  padding-bottom: 5px;
+  margin: 0;
+  width: 100%;
+  max-width: 358px;
+  font-size: 14px;
+  line-height: 1.5;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  outline: none;
+  padding: 0;
+}

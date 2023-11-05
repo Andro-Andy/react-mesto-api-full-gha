@@ -1,0 +1,10 @@
+.profile__avatar {
+  background-color: rgba(0, 0, 0, 0.8);
+  border: none;
+  background-image: url(../../../images/button/edit-button.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 26px;
+  z-index: 0;
+  padding: 0;
+}
