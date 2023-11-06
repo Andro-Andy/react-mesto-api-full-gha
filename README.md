@@ -13,4 +13,4 @@ IP-адрес 84.201.185.107
 
 [Frontend](https://mesto.nomoredomainsmonster.ru)
 
-[Backend](https://api.mesto.nomoredomainsmonster.ru)
+[Backend](https://api.mesto.nomoredomainsmonster.ru/users/me)
